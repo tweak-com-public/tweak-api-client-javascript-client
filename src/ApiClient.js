@@ -57,7 +57,7 @@
      * @type {String}
      * @default https://apidevcdn.tweak.com/api
      */
-    this.basePath = 'https://apidevcdn.tweak.com/api'.replace(/\/+$/, '');
+    this.basePath = 'http://apidevcdn.tweak.com/api'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.
